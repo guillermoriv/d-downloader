@@ -1,0 +1,7 @@
+# Binaries
+*.exe
+*.out
+*.test
+
+# Vendor directory
+/vendor/
